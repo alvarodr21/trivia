@@ -1,0 +1,5 @@
+pydub>=0.25.1
+numpy>=1.24.0
+scipy>=1.10.0
+audioop-lts>=0.2.2; python_version >= "3.13"  # stdlib audioop was removed in 3.13
+opencv-python>=4.8.0  # For image/video processing
